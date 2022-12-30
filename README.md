@@ -19,7 +19,8 @@ About_Kushagra = {
             "graduation_expected_by" : 2025
         },
         "School" : "Delhi Public School, Navi Mumbai"
-    }
+    },
+    "in_free_time" : "browse_through "+random.choice["github repos/topics","reddit :)","trending tech stuff","football/cricket news","general news"]
     
 }
 ```
