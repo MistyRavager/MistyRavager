@@ -20,7 +20,7 @@ About_Kushagra = {
         },
         "School" : "Delhi Public School, Navi Mumbai"
     },
-    "in_free_time" : "browse_through "+random.choice["github repos/topics","reddit :)","trending tech stuff","football/cricket news","general news"]
+    "in_free_time" : "browse_through "+ random.choice(["github repos/topics","reddit :)","trending tech stuff","football/cricket news","general news"])
     
 }
 ```
