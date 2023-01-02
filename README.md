@@ -29,3 +29,5 @@ About_Kushagra = {
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistyRavager&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=MistyRavager)](https://git.io/streak-stats) -->
