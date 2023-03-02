@@ -6,9 +6,9 @@ About_Kushagra = {
     "currently" : 
     {
         "learning/doing_stuff_in" : random.choice(["rust", "Next.js", "Hugo"]),
-        "looking to collaborate on" : ["Python/C/C++ projects","Backend for websites"]
+        "looking to collaborate on" : ["Python/C/C++ projects","Backend/Frontend for websites"]
     },
-    "languages_known" : ["Python", "C/C++", "Javascript/HTML/CSS"],
+    "languages_known" : ["Python", "C/C++", "Javascript/HTML 5/CSS"],
     "email" : "kushagra.gupta0103@gmail.com",
     "education" : 
     {
