@@ -9,10 +9,15 @@ About_Kushagra = {
         "looking to collaborate on" : ["Python/C/C++ projects","Backend for websites"]
     },
     "languages_known" : ["Python", "C/C++", "Javascript/HTML/CSS"],
-    
+    "email" : "kushagra.gupta0103@gmail.com",
     "education" : 
     {
-        
+        "College" : 
+        {
+            "name" : "Indian Institute of Technology, Hyderabad",
+            "pursuing" : "Computer Science and Engineering",
+            "graduation_expected_by" : 2025
+        },
         "School" : "Delhi Public School, Navi Mumbai"
     },
     "in_free_time" : "browse_through "+ random.choice(["github repos/topics","reddit :)","trending tech stuff","football/cricket news","general news"])
@@ -24,15 +29,7 @@ About_Kushagra = {
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistyRavager&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
-<!--  <h2 align="center"> My GitHub Stats  </h2>
-"email" : "cs21btech11033@iith.ac.in",
-"College" : 
-        {
-            "name" : "Indian Institute of Technology, Hyderabad",
-            "pursuing" : "Computer Science and Engineering",
-            "graduation_expected_by" : 2025
-        },
-<br> -->
+
 
 <!-- <p align="center" > <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=MistyRavager&theme=dracula&title=Stars,Commit,Issues,Repositories,PullRequest&row=2&column=3" alt="MistyRavager" /></a> </p> -->
 
