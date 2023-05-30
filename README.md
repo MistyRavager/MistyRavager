@@ -5,10 +5,10 @@ import random
 About_Kushagra = {
     "currently" : 
     {
-        "learning/doing_stuff_in" : random.choice(["rust", "Next.js", "Hugo"]),
-        "looking to collaborate on" : ["Python/C/C++ projects","Backend/Frontend for websites"]
+        "learning/doing_stuff_in" : random.choice(["tailwindcss", "svelte.js", "Regression", "three.js"]),
+        "looking to collaborate on" : ["Python/Next.js projects","Backend/Frontend for websites"]
     },
-    "languages_well_known" : ["Python", "C/C++", "Javascript/HTML 5/CSS"],
+    "skills" : ["Python", "C/C++", "Hugo", "Next.js", "Node.js", "Material UI", "Git", "Mantine"],
     "email" : "kushagra.gupta0103@gmail.com",
     "education" : 
     {
