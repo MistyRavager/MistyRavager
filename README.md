@@ -5,7 +5,7 @@ import random
 About_Kushagra = {
     "currently" : 
     {
-        "learning/doing_stuff_in" : random.choice(["tailwindcss", "svelte.js", "Regression", "three.js"]),
+        "learning/doing_stuff_in" : random.choice(["tailwindcss", "svelte.js", "three.js"]),
         "looking to collaborate on" : ["Python/Next.js projects","Backend/Frontend for websites"]
     },
     "skills" : ["Python", "C/C++", "Hugo", "Next.js", "Node.js", "Material UI", "Git", "Mantine"],
